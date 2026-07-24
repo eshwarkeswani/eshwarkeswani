@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Eshwar%20Keswani&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Enthusiast%20%7C%20Fresher%20%7C%20Building%20with%20Data%20%26%20Code&descAlignY=62&descSize=16" width="100%"/>
-
-<h3>Hi there, I'm Eshwar 👋</h3>
+<h1>Hi, I'm Eshwar Keswani 👋</h1>
+<p><b>AI/ML Enthusiast &nbsp;|&nbsp; Fresher &nbsp;|&nbsp; Building with Data & Code</b></p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Data+Science+Enthusiast;Fresher+%7C+Open+to+Opportunities;Turning+Data+into+Decisions+%F0%9F%A7%A0;Always+learning%2C+always+building." alt="Typing SVG" />
 
@@ -62,31 +61,6 @@ My personal developer portfolio showcasing projects, skills, and journey as an A
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=eshwarkeswani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshwarkeswani&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshwarkeswani&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=eshwarkeswani&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
-
-<br/>
-
 ## 📈 Contribution Snake
 
 <div align="center">
@@ -105,5 +79,3 @@ My personal developer portfolio showcasing projects, skills, and journey as an A
 <i>"Still learning, still building — one commit at a time."</i>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
